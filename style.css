@@ -1,0 +1,20 @@
+.grid {
+	padding-top: 0;
+	font-family: verdana, "sans-serif";
+}
+.tekst1{
+	font-weight: 300;
+	font-size: 24px;
+}
+.tekst2{
+	font-weight: 200;
+	font-size: 20px;
+}
+.tekst3{
+	font-weight: 300;
+	font-size: 16px;
+}
+.border {
+	height: 5px;
+	background: #000000;
+}
